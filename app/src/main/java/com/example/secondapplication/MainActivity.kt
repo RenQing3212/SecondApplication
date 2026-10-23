@@ -24,7 +24,7 @@ class MainActivity : ComponentActivity() {
                     InspectionScreen(
                         inspector = "申倩", // ⚠️ 这里改成你的真实姓名
                         room = "A203",
-                        total = 10,
+                        total = 10,//不知道为什么，一直提交不了
                         checked = 5, // 任务5会让你改成5测试
                         result = resultText,
                         busy = isBusy,

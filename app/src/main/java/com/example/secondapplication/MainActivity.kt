@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
 
                     InspectionScreen(
                         inspector = "申倩", // ⚠️ 这里改成你的真实姓名
-                        room = "A203",//响应的room
+                        room = "A203",
                         total = 10,
                         checked = 5, // 任务5会让你改成5测试
                         result = resultText,
